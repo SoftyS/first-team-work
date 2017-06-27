@@ -9,6 +9,10 @@ public class Compteur {
 		System.out.println(this.valeur);
 
 	}
-
 	
+	public int getValeur() {
+		return this.valeur;
+
+	}
+
 }
