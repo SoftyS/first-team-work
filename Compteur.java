@@ -4,8 +4,11 @@ public class Compteur {
 	public void increment() {
 		this.valeur += 1;
 	}
+	
+	public void toString() {
+		System.out.println(this.valeur)
+
 	}
 
-
-
+	
 }
