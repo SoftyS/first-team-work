@@ -1,7 +1,7 @@
 public class Compteur {
 	
 	private int valeur = 0;
-	public void increment() {
+	public void increment() { // +1 a la valeur
 		this.valeur += 1;
 	}
 	
