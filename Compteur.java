@@ -5,7 +5,7 @@ public class Compteur {
 		this.valeur += 1;
 	}
 	
-	public void toString() {
+	public void affiche() {
 		System.out.println(this.valeur);
 
 	}
