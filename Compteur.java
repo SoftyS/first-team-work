@@ -6,7 +6,7 @@ public class Compteur {
 	}
 	
 	public void toString() {
-		System.out.println(this.valeur)
+		System.out.println(this.valeur);
 
 	}
 
